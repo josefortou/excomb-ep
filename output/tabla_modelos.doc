@@ -1,0 +1,276 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title></title>
+</head>
+
+<body>
+<table cellspacing="0" align="center" style="border: none;">
+<tr>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"><b></b></th>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"><b>NEP: todas</b></th>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"><b>NEP: alcalde</b></th>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"><b>NEP: concejo</b></th>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"><b>Margen: todas</b></th>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"><b>Margen: alcalde</b></th>
+<th style="text-align: left; border-top: 2px solid black; border-bottom: 1px solid black; padding-right: 12px;"><b>Margen: concejo</b></th>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Municipio PDET</td>
+<td style="padding-right: 12px; border: none;">0.424</td>
+<td style="padding-right: 12px; border: none;">0.018</td>
+<td style="padding-right: 12px; border: none;">0.800</td>
+<td style="padding-right: 12px; border: none;">-0.039</td>
+<td style="padding-right: 12px; border: none;">-0.036</td>
+<td style="padding-right: 12px; border: none;">-0.043</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.585)</td>
+<td style="padding-right: 12px; border: none;">(0.468)</td>
+<td style="padding-right: 12px; border: none;">(0.980)</td>
+<td style="padding-right: 12px; border: none;">(0.040)</td>
+<td style="padding-right: 12px; border: none;">(0.070)</td>
+<td style="padding-right: 12px; border: none;">(0.040)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Municipio ETCR</td>
+<td style="padding-right: 12px; border: none;">-0.088</td>
+<td style="padding-right: 12px; border: none;">0.123</td>
+<td style="padding-right: 12px; border: none;">-0.277</td>
+<td style="padding-right: 12px; border: none;">-0.001</td>
+<td style="padding-right: 12px; border: none;">-0.003</td>
+<td style="padding-right: 12px; border: none;">0.004</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.221)</td>
+<td style="padding-right: 12px; border: none;">(0.178)</td>
+<td style="padding-right: 12px; border: none;">(0.370)</td>
+<td style="padding-right: 12px; border: none;">(0.015)</td>
+<td style="padding-right: 12px; border: none;">(0.027)</td>
+<td style="padding-right: 12px; border: none;">(0.015)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Municipio CEP</td>
+<td style="padding-right: 12px; border: none;">-0.404</td>
+<td style="padding-right: 12px; border: none;">-0.156</td>
+<td style="padding-right: 12px; border: none;">-0.581</td>
+<td style="padding-right: 12px; border: none;">0.047</td>
+<td style="padding-right: 12px; border: none;">0.053</td>
+<td style="padding-right: 12px; border: none;">0.043</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.588)</td>
+<td style="padding-right: 12px; border: none;">(0.471)</td>
+<td style="padding-right: 12px; border: none;">(0.986)</td>
+<td style="padding-right: 12px; border: none;">(0.041)</td>
+<td style="padding-right: 12px; border: none;">(0.070)</td>
+<td style="padding-right: 12px; border: none;">(0.040)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Participación FARC</td>
+<td style="padding-right: 12px; border: none;">0.862<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">0.093</td>
+<td style="padding-right: 12px; border: none;">0.827<sup style="vertical-align: 0px;">**</sup></td>
+<td style="padding-right: 12px; border: none;">-0.019</td>
+<td style="padding-right: 12px; border: none;">-0.037</td>
+<td style="padding-right: 12px; border: none;">-0.016</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.199)</td>
+<td style="padding-right: 12px; border: none;">(0.256)</td>
+<td style="padding-right: 12px; border: none;">(0.267)</td>
+<td style="padding-right: 12px; border: none;">(0.014)</td>
+<td style="padding-right: 12px; border: none;">(0.038)</td>
+<td style="padding-right: 12px; border: none;">(0.011)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Víctimas por homicidio, 2015-2018</td>
+<td style="padding-right: 12px; border: none;">-0.004</td>
+<td style="padding-right: 12px; border: none;">-0.000</td>
+<td style="padding-right: 12px; border: none;">-0.007</td>
+<td style="padding-right: 12px; border: none;">0.001<sup style="vertical-align: 0px;">*</sup></td>
+<td style="padding-right: 12px; border: none;">0.001</td>
+<td style="padding-right: 12px; border: none;">0.001</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.005)</td>
+<td style="padding-right: 12px; border: none;">(0.004)</td>
+<td style="padding-right: 12px; border: none;">(0.008)</td>
+<td style="padding-right: 12px; border: none;">(0.000)</td>
+<td style="padding-right: 12px; border: none;">(0.001)</td>
+<td style="padding-right: 12px; border: none;">(0.000)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">FARC &times; homicidio</td>
+<td style="padding-right: 12px; border: none;">-0.046<sup style="vertical-align: 0px;">**</sup></td>
+<td style="padding-right: 12px; border: none;">0.017</td>
+<td style="padding-right: 12px; border: none;">-0.093<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">0.001</td>
+<td style="padding-right: 12px; border: none;">-0.000</td>
+<td style="padding-right: 12px; border: none;">0.002<sup style="vertical-align: 0px;">*</sup></td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.015)</td>
+<td style="padding-right: 12px; border: none;">(0.018)</td>
+<td style="padding-right: 12px; border: none;">(0.023)</td>
+<td style="padding-right: 12px; border: none;">(0.001)</td>
+<td style="padding-right: 12px; border: none;">(0.003)</td>
+<td style="padding-right: 12px; border: none;">(0.001)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Tipo de elección: Concejo</td>
+<td style="padding-right: 12px; border: none;">3.427<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">-0.073<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;"></td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.060)</td>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.004)</td>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;"></td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Desempeño municipal, 2017</td>
+<td style="padding-right: 12px; border: none;">0.017<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">0.007<sup style="vertical-align: 0px;">*</sup></td>
+<td style="padding-right: 12px; border: none;">0.027<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">0.001<sup style="vertical-align: 0px;">*</sup></td>
+<td style="padding-right: 12px; border: none;">0.001<sup style="vertical-align: 0px;">*</sup></td>
+<td style="padding-right: 12px; border: none;">0.000</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.004)</td>
+<td style="padding-right: 12px; border: none;">(0.003)</td>
+<td style="padding-right: 12px; border: none;">(0.006)</td>
+<td style="padding-right: 12px; border: none;">(0.000)</td>
+<td style="padding-right: 12px; border: none;">(0.000)</td>
+<td style="padding-right: 12px; border: none;">(0.000)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Población, log., 2019</td>
+<td style="padding-right: 12px; border: none;">0.626<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">0.198<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">1.071<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">-0.007<sup style="vertical-align: 0px;">**</sup></td>
+<td style="padding-right: 12px; border: none;">-0.005</td>
+<td style="padding-right: 12px; border: none;">-0.010<sup style="vertical-align: 0px;">***</sup></td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.034)</td>
+<td style="padding-right: 12px; border: none;">(0.027)</td>
+<td style="padding-right: 12px; border: none;">(0.058)</td>
+<td style="padding-right: 12px; border: none;">(0.002)</td>
+<td style="padding-right: 12px; border: none;">(0.004)</td>
+<td style="padding-right: 12px; border: none;">(0.002)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Área municipal, km.<sup>2</sup>, log.</td>
+<td style="padding-right: 12px; border: none;">0.104<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">0.102<sup style="vertical-align: 0px;">***</sup></td>
+<td style="padding-right: 12px; border: none;">0.104<sup style="vertical-align: 0px;">*</sup></td>
+<td style="padding-right: 12px; border: none;">-0.006<sup style="vertical-align: 0px;">**</sup></td>
+<td style="padding-right: 12px; border: none;">-0.010<sup style="vertical-align: 0px;">**</sup></td>
+<td style="padding-right: 12px; border: none;">-0.001</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.031)</td>
+<td style="padding-right: 12px; border: none;">(0.025)</td>
+<td style="padding-right: 12px; border: none;">(0.051)</td>
+<td style="padding-right: 12px; border: none;">(0.002)</td>
+<td style="padding-right: 12px; border: none;">(0.004)</td>
+<td style="padding-right: 12px; border: none;">(0.002)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Distancia a capital, log.</td>
+<td style="padding-right: 12px; border: none;">0.003</td>
+<td style="padding-right: 12px; border: none;">-0.013</td>
+<td style="padding-right: 12px; border: none;">0.012</td>
+<td style="padding-right: 12px; border: none;">0.000</td>
+<td style="padding-right: 12px; border: none;">-0.000</td>
+<td style="padding-right: 12px; border: none;">0.000</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.013)</td>
+<td style="padding-right: 12px; border: none;">(0.010)</td>
+<td style="padding-right: 12px; border: none;">(0.021)</td>
+<td style="padding-right: 12px; border: none;">(0.001)</td>
+<td style="padding-right: 12px; border: none;">(0.002)</td>
+<td style="padding-right: 12px; border: none;">(0.001)</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Distancia a Bogotá, log.</td>
+<td style="padding-right: 12px; border: none;">-0.088<sup style="vertical-align: 0px;">*</sup></td>
+<td style="padding-right: 12px; border: none;">-0.082<sup style="vertical-align: 0px;">**</sup></td>
+<td style="padding-right: 12px; border: none;">-0.114</td>
+<td style="padding-right: 12px; border: none;">0.001</td>
+<td style="padding-right: 12px; border: none;">0.003</td>
+<td style="padding-right: 12px; border: none;">-0.000</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;"></td>
+<td style="padding-right: 12px; border: none;">(0.036)</td>
+<td style="padding-right: 12px; border: none;">(0.029)</td>
+<td style="padding-right: 12px; border: none;">(0.062)</td>
+<td style="padding-right: 12px; border: none;">(0.003)</td>
+<td style="padding-right: 12px; border: none;">(0.004)</td>
+<td style="padding-right: 12px; border: none;">(0.003)</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid black;">R<sup>2</sup></td>
+<td style="border-top: 1px solid black;">0.655</td>
+<td style="border-top: 1px solid black;">0.162</td>
+<td style="border-top: 1px solid black;">0.414</td>
+<td style="border-top: 1px solid black;">0.142</td>
+<td style="border-top: 1px solid black;">0.026</td>
+<td style="border-top: 1px solid black;">0.038</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">R<sup>2</sup> ajust.</td>
+<td style="padding-right: 12px; border: none;">0.653</td>
+<td style="padding-right: 12px; border: none;">0.150</td>
+<td style="padding-right: 12px; border: none;">0.406</td>
+<td style="padding-right: 12px; border: none;">0.135</td>
+<td style="padding-right: 12px; border: none;">0.011</td>
+<td style="padding-right: 12px; border: none;">0.024</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;">Núm. obs.</td>
+<td style="padding-right: 12px; border: none;">2201</td>
+<td style="padding-right: 12px; border: none;">1101</td>
+<td style="padding-right: 12px; border: none;">1100</td>
+<td style="padding-right: 12px; border: none;">2197</td>
+<td style="padding-right: 12px; border: none;">1097</td>
+<td style="padding-right: 12px; border: none;">1100</td>
+</tr>
+<tr>
+<td style="border-bottom: 2px solid black;">RECM</td>
+<td style="border-bottom: 2px solid black;">1.405</td>
+<td style="border-bottom: 2px solid black;">0.795</td>
+<td style="border-bottom: 2px solid black;">1.663</td>
+<td style="border-bottom: 2px solid black;">0.097</td>
+<td style="border-bottom: 2px solid black;">0.119</td>
+<td style="border-bottom: 2px solid black;">0.068</td>
+</tr>
+<tr>
+<td style="padding-right: 12px; border: none;" colspan="8"><span style="font-size:0.8em"><sup style="vertical-align: 0px;">***</sup>p &lt; 0.001, <sup style="vertical-align: 0px;">**</sup>p &lt; 0.01, <sup style="vertical-align: 0px;">*</sup>p &lt; 0.05</span></td>
+</tr>
+</table>
+</body>
+</html>
